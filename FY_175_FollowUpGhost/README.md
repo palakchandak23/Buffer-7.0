@@ -7,8 +7,15 @@ These commitments are not automatically tracked by existing email systems, makin
 There is a need for a system that can automatically detect commitment-related statements in sent emails, extract relevant task and deadline information, 
 and organize them into a structured system that prioritizes, tracks, and identifies overdue commitments.
 
-Team Members Names:
-1.Khushi Chitlange
-2.Palak Chandak
-3.Janvi Bangad
-4.Nidhi Jain
+Data Structures used:
+1. HashMaps
+2. Queues
+3. Bubble Sort
+4. ArrayList
+5. Linked List
+6. Linear Search
+7. Static Keyword Table
+8. String Processing
+
+Video Link:
+https://drive.google.com/file/d/1-PNDMMqnkczFXgbyc8Pgng2ndBdZsCJV/view?usp=sharing
